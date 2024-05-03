@@ -1,8 +1,8 @@
 [package]
 name = "flappybird"
 version = "0.1.0"
-authors = ["andre <spyr1014@gmail.com>"]
-edition = "2018"
+authors = ["radina <radina.avramova@gmail.com>"]
+edition = "2023"
 
 [dependencies]
 ggez = "0.5.0-rc.2"
